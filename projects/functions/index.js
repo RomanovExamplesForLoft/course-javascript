@@ -28,7 +28,9 @@ function returnFirstArgument() {}
  Пример:
    sumWithDefaults(10) вернет 110
  */
-function sumWithDefaults() {}
+function sumWithDefaults() {
+  // console.log('привет')
+}
 
 /*
  Задание 3:
